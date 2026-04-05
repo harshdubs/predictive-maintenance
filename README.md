@@ -76,4 +76,4 @@ jupyter notebook notebooks/01_data_exploration.ipynb
 
 ## 👤 Author
 
-**Harsh Dubey** — [LinkedIn](https://www.linkedin.com/in/harsh-dubey-1b169a242) · [GitHub](https://github.com/cosmicskull711)
+**Harsh Dubey** — [LinkedIn](https://www.linkedin.com/in/harsh-dubey-1b169a242) · [GitHub](https://github.com/harshdubs)
